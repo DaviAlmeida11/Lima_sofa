@@ -29,3 +29,4 @@ Celular.
 
 Clique [aqui](https://www.figma.com/design/3fhPKZeLdNySNB7BgcgJs4/lima---FurniShop--Copy-?node-id=2001-49&t=IKu3VgUUX89DQlAu-0) para ver meu figma
 # FurnShop_tailwind
+# FurnShop_tailwind
